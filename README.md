@@ -1,2 +1,2 @@
 # notepad
-App
+note App for life
